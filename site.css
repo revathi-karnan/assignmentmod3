@@ -1,6 +1,6 @@
 	 html,
         body {
-            height: 90%;
+            height:95%;
             width: 100%;
             padding: 0;
             margin: 0;
@@ -13,7 +13,7 @@
             height: 100%;
             width: 100%;
             background-color: #1d539d;
-            color: red;
+            color: yellow;
             padding-top: 6%;
             box-sizing: border-box;
             overflow-y: auto;
