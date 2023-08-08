@@ -1,6 +1,7 @@
-	 html,
+			 html,
         body {
-            height:85%;
+<<<<<<< HEAD
+            height:99%
             width: 100%;
             padding: 0;
             margin: 0;
@@ -12,7 +13,7 @@
         .main-container {
             height: 100%;
             width: 100%;
-            background-color: #1d539d;
+            background-color: #1d539d
             color: blue;
             padding-top: 6%;
             box-sizing: border-box;
